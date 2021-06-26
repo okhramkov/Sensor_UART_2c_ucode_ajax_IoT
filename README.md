@@ -11,7 +11,7 @@ This challenge is made to get aqcuanted with Sensors BoosterPack, learn how to w
 
 ### &ensp; t01
  &ensp;&ensp;&ensp;&ensp; Temperature, pressure and humidity sensor. <br/>
- &ensp;&ensp;&ensp;&ensp; App that gets temperature, pressure and humidity from a BME280 sensorby using I2C protocol and writes them in a console every 10 seconds by using UART protocol.
+ &ensp;&ensp;&ensp;&ensp; App that gets temperature, pressure and humidity from a BME280 sensor by using I2C protocol and writes them in a console every 10 seconds by using UART protocol.
  #### &ensp;&ensp;&ensp;&ensp; <b> Devices</b>
  - [Board LAUNCHXL-CC1352R1](https://www.ti.com/tool/LAUNCHXL-CC1352R1#description)
  - [Board BOOSTXL-SENSORS](https://www.ti.com/tool/BOOSTXL-SENSORS)
